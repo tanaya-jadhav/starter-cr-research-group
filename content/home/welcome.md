@@ -9,6 +9,8 @@ design:
   columns: "2"
   css_style: null
   css_class: null
+  background:
+    image: welcome.jpg
 ---
 
 <br>
